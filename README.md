@@ -16,7 +16,6 @@
   Sou o Antonio Gabriel, estudante de Ciência da Computação com foco em <strong>Engenharia de Dados</strong>.<br><br>
   - 🎓 Cursando Ciência da Computação<br>
   - 📊 Estudando Engenharia de Dados<br>
-  - 🌱 Sempre aprendendo algo novo
 </p>
 
 ###
@@ -29,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
+          
 </div>
 
 ###
