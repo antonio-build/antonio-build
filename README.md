@@ -40,8 +40,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonio-build&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-build&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats-git-master-antonio-builds-projects.vercel.app/api?username=antonio-build&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats-git-master-antonio-builds-projects.vercel.app/api/top-langs?username=antonio-build&layout=compact&theme=dracula&hide_border=false&count_private=true" height="150" alt="languages graph" />
 </div>
 
 ###
