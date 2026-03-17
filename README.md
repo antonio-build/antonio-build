@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Antonio Gabriel from Brasil, a<br>- 📚 I'm currently focusing in Data Engineering and Computer Science</p>
+<p align="left">I am Antonio Gabriel, from Brasil<br>- 📚 I'm currently focusing in Data Engineering and Computer Science</p>
 
 ###
 
